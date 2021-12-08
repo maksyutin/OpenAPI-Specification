@@ -1,6 +1,6 @@
 # OpenAPI Спецификация (Русская редакция)
 
-![Build Status](https://github.com/OAI/OpenAPI-Specification/workflows/validate-markdown/badge.svg) [![Issue triagers](https://www.codetriage.com/oai/openapi-specification/badges/users.svg)](https://www.codetriage.com/oai/openapi-specification)
+![Build Status](https://github.com/OAI/OpenAPI-Specification/workflows/validate-markdown/badge.svg) ![Issue triagers](https://www.codetriage.com/oai/openapi-specification/badges/users.svg)](https://www.codetriage.com/oai/openapi-specification)
 
 ![](https://avatars3.githubusercontent.com/u/16343502?v=3&s=200)
 
