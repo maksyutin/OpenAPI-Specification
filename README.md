@@ -1,11 +1,11 @@
 # OpenAPI Спецификация (Русская редакция)
 
-![Build Status](https://github.com/OAI/OpenAPI-Specification/workflows/validate-markdown/badge.svg) ![Issue triagers](https://www.codetriage.com/oai/openapi-specification/badges/users.svg)](https://www.codetriage.com/oai/openapi-specification)
+![Build Status](https://github.com/OAI/OpenAPI-Specification/workflows/validate-markdown/badge.svg) [![Issue triagers](https://www.codetriage.com/oai/openapi-specification/badges/users.svg)](https://www.codetriage.com/oai/openapi-specification)
 
 ![](https://avatars3.githubusercontent.com/u/16343502?v=3&s=200)
 
 
-Спецификация OpenAPI - это открытая спецификация, поддерживаемая сообществом в рамках [Инициативы OpenAPI](https://www.openapis.org /), совместный проект с Linux Foundation.
+Спецификация OpenAPI - это открытая спецификация, поддерживаемая сообществом в рамках [Инициативы OpenAPI](https://www.openapis.org/), совместный проект с Linux Foundation.
 
 Относительно назначения, OpenAPI рассматривается как универсальный интерфейс для пользователей (клиентов) по взаимодействию с сервисами (серверами). Аналогичен описаниям интерфейса для программирования более низкого уровня. Если спроектирована спецификация для некоторого сервиса, то на её основании можно генерировать исходный код для библиотек клиентских приложений, текстовую документацию для пользователей, варианты тестирования и др. Для этих действий имеется большой набор инструментов для различных языков программирования и платформ. 
 
